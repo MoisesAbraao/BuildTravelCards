@@ -1,5 +1,14 @@
 const response = [
     {
+        name: 'Weekend in Natal',
+        image: 'natal.jpg',
+        dateFrom: 'Dec 20th 2019',
+        dateTo: 'Dec 22th 2019',
+        guests: 2,
+        category: 'relaxing',
+        copy: 'Natal is a paradise in Brazil. Here you can find many beaches.'
+    },
+    {
         name: 'Decadent Week in Cape Town',
         image: 'cape-town.jpg',
         dateFrom: 'Oct 13th 2019',
@@ -265,7 +274,6 @@ const response = [
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
-
         name: 'Japan Adventure',
         image: 'japan.jpg',
         dateFrom: 'Oct 8th 2019',
@@ -275,7 +283,7 @@ const response = [
         copy:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
-  {
+    {
         name: 'Tourism in Kaziranga National PARK',
         image: 'kaziranga.jpg',
         dateFrom: 'Oct 10th 2019',
@@ -303,7 +311,7 @@ const response = [
         guests: 2,
         category: 'weekend break',
         copy:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'   
+            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum a maximus dolor. Sed iaculis luctus metus a mattis.'
     },
     {
         name: 'Week in Buenos Aires',
@@ -313,7 +321,7 @@ const response = [
         guests: 4,
         category: 'family',
         copy:
-            'Argentina\'s capital, Buenos Aires is the second largest urban area in South America, full of great tourist attractions, museums, restaurants.'   
+            "Argentina's capital, Buenos Aires is the second largest urban area in South America, full of great tourist attractions, museums, restaurants."
     }
 ]
 
